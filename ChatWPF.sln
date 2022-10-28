@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatWPF", "ChatWPF\ChatWPF.csproj", "{F8396ABD-5D15-419A-B675-AB143DC08B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomVPN", "CustomVPN\CustomVPN.csproj", "{00346681-00F3-4355-AEA2-BD7815CFA111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8396ABD-5D15-419A-B675-AB143DC08B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8396ABD-5D15-419A-B675-AB143DC08B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8396ABD-5D15-419A-B675-AB143DC08B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8396ABD-5D15-419A-B675-AB143DC08B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00346681-00F3-4355-AEA2-BD7815CFA111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00346681-00F3-4355-AEA2-BD7815CFA111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00346681-00F3-4355-AEA2-BD7815CFA111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00346681-00F3-4355-AEA2-BD7815CFA111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {602ACEB0-E14F-4ADA-8F61-A50EF000A518}
+	EndGlobalSection
+EndGlobal
